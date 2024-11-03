@@ -13,6 +13,8 @@
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
     "autoprefixer": "10.4.20",
+    "cadastropadmed": "file:",
+    "formik": "^2.4.6",
     "next": "14.2.16",
     "postcss": "8.4.47",
     "react": "18.3.1",
